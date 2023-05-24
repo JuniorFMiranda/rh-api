@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rhapitests", "RhApiTests\rhapitests.csproj", "{9A5FE380-2A3E-4511-BEF6-A23EAD699486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RhApi", "RhApi\RhApi.csproj", "{43DBE5EE-E7DB-440B-8AB3-C72EE342D807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A5FE380-2A3E-4511-BEF6-A23EAD699486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5FE380-2A3E-4511-BEF6-A23EAD699486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5FE380-2A3E-4511-BEF6-A23EAD699486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5FE380-2A3E-4511-BEF6-A23EAD699486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43DBE5EE-E7DB-440B-8AB3-C72EE342D807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43DBE5EE-E7DB-440B-8AB3-C72EE342D807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43DBE5EE-E7DB-440B-8AB3-C72EE342D807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43DBE5EE-E7DB-440B-8AB3-C72EE342D807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
